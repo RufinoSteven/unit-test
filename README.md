@@ -99,5 +99,4 @@ Se debe grabar un video mostrando:
 - Pruebas visuales de la API
 - Explicación de la relación entre pruebas y casos de uso
 
----
-Para dudas o mejoras, puedes modificar este README.
+
